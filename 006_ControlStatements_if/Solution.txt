@@ -1,0 +1,24 @@
+public static char passedClass(int _grade)
+{
+	if(_grade<60)
+	{
+		return 'F';
+	}
+		
+	else if (_grade < 70)
+	{
+		return 'D';
+	}
+		
+	else if (_grade < 80)
+	{
+		return 'C';
+	}
+		
+	else if (_grade < 90)
+	{
+		return 'B';
+	}
+		
+	return 'A';
+}

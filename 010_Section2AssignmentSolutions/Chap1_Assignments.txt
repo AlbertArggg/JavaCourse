@@ -1,0 +1,14 @@
+Chapter 1: Assignments
+
+1)	write a program that asks the user for his first and last name, once the user has input the values, 
+	print out a statement welcoming the user by stating his full name. 
+
+2) 	Write a program that asks the user for a number between 3-10. If the user's input is outside the given
+	range, inform the user of his error and allow him to input a diffrent value. Once that value is acceptable,
+	calculate the addition of every number from 1 to the given input. 
+	example: user input = 5, output = 1 + 2 + 3 + 4 + 5
+	    	 user input = 7, output = 1 + 2 + 3 + 4 + 5 + 6 + 7
+
+3) 	Write a program that will pick a random number between any two values and ask the user to guess that number.
+	if the user's input is less than or greater than the requested value, inform the user
+	otherwise, if the input is equal to the requested value, inform the user that he has won and terminate the program. 
